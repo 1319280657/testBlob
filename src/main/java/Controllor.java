@@ -12,4 +12,7 @@ public class Controllor {
     public void testUpdate(){
         System.out.println("测试更新的时候有没有影响到当前文件");
     }
+    public void testUpdate1(){
+        System.out.println("测试分类型提交");
+    }
 }
