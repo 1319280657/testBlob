@@ -6,4 +6,8 @@
  **/
 public class Controllor {
 
+    public void test(){
+        System.out.println("测试GIT是不是直接提交到GITHUB");
+    }
+
 }
